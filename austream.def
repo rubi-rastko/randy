@@ -1,0 +1,5 @@
+LIBRARY MAUSTREAM
+EXPORTS auoutStart
+		MAUSTR_LoadPlugin
+		MAUSTR_Init
+		MAUSTR_StopOut
