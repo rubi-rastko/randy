@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "randy", "Randy.vcproj", "{BC36495F-2BBE-4617-BC13-A563B1DC336E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5197F25B-C226-4B19-9F5C-5E2071AB1544} = {5197F25B-C226-4B19-9F5C-5E2071AB1544}
+		{0E68A562-FB35-4111-943B-DB1CBC4388C7} = {0E68A562-FB35-4111-943B-DB1CBC4388C7}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mcomp", "mcomp.vcproj", "{0E68A562-FB35-4111-943B-DB1CBC4388C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "synawts", "synawts.vcproj", "{5197F25B-C226-4B19-9F5C-5E2071AB1544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC36495F-2BBE-4617-BC13-A563B1DC336E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC36495F-2BBE-4617-BC13-A563B1DC336E}.Debug|Win32.Build.0 = Debug|Win32
+		{BC36495F-2BBE-4617-BC13-A563B1DC336E}.Release|Win32.ActiveCfg = Release|Win32
+		{BC36495F-2BBE-4617-BC13-A563B1DC336E}.Release|Win32.Build.0 = Release|Win32
+		{0E68A562-FB35-4111-943B-DB1CBC4388C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E68A562-FB35-4111-943B-DB1CBC4388C7}.Debug|Win32.Build.0 = Debug|Win32
+		{0E68A562-FB35-4111-943B-DB1CBC4388C7}.Release|Win32.ActiveCfg = Release|Win32
+		{0E68A562-FB35-4111-943B-DB1CBC4388C7}.Release|Win32.Build.0 = Release|Win32
+		{5197F25B-C226-4B19-9F5C-5E2071AB1544}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5197F25B-C226-4B19-9F5C-5E2071AB1544}.Debug|Win32.Build.0 = Debug|Win32
+		{5197F25B-C226-4B19-9F5C-5E2071AB1544}.Release|Win32.ActiveCfg = Release|Win32
+		{5197F25B-C226-4B19-9F5C-5E2071AB1544}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

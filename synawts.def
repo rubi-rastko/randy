@@ -1,0 +1,4 @@
+LIBRARY SYNAWTS
+EXPORTS render_samples
+	MSYN_Init
+	PLG_OpenParams

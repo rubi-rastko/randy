@@ -1,0 +1,4 @@
+LIBRARY MSEQ
+EXPORTS SequencerProc
+	MSEQ_SetParams
+	MSEQ_Init

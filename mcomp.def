@@ -1,0 +1,4 @@
+LIBRARY MCOMP
+EXPORTS genRndNotes
+	MCOMP_SetParams
+	MCOMP_Init
